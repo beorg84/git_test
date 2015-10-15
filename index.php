@@ -6,6 +6,7 @@
  */
 echo "COMMIT C1";
 echo "COMMIT C2";
+echo "COMMIT C3 BRANCH1";
 // Set flag that this is a parent file.
 define('_JEXEC', 1);
 define('DS', DIRECTORY_SEPARATOR);
