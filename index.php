@@ -4,7 +4,7 @@
  * @copyright	Copyright (C) 2005 - 2014 Open Source Matters, Inc. All rights reserved.
  * @license		GNU General Public License version 2 or later; see LICENSE.txt
  */
-
+echo "COMMIT C1";
 // Set flag that this is a parent file.
 define('_JEXEC', 1);
 define('DS', DIRECTORY_SEPARATOR);
